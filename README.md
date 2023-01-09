@@ -18,11 +18,16 @@
 и следующие библиотеки:
 
 pip install django
+
 pip install djangorestframework
+
 pip install django-cors-headers
+
 pip install easy-thumbnails pip install channels
 
+
 Команда запуска сервера стандартная: py manage.py runserver
+
 
 Для запуска клиента нужно скопировать на комьютер файлы из папки "Клиент на JS"
 и запустить в браузере index.html
